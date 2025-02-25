@@ -1,0 +1,19 @@
+{
+    "editor.stickyScroll.enabled": false,
+    "explorer.compactFolders": false,
+    "window.menuBarVisibility": "toggle",
+    "breadcrumbs.enabled": false,
+    "workbench.startupEditor": "none",
+    "makefile.configureOnOpen": false,
+    "editor.minimap.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.iconTheme": "helium-icon-theme",
+    "editor.fontFamily": "Lotion, 'Droid Sans Mono', 'monospace', monospace",
+    "helium-icon-theme.folders.color": "#eb6f92",
+    "scm.compactFolders": false,
+    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+    "vim.smartRelativeLine": true,
+    "editor.tabSize": 2,
+    "terminal.integrated.allowChords": false,
+    "editor.fontLigatures": true
+}
