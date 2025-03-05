@@ -23,6 +23,8 @@
   "editor.lineHeight": 1.618,
   "editor.letterSpacing": -0.418,
   "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.sideBar.location": "right",
   "workbench.activityBar.location": "top",
-  "workbench.sideBar.location": "right"
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": false
 }
