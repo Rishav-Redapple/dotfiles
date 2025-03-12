@@ -11,7 +11,7 @@
   "editor.fontFamily": "'Monaspace Radon Frozen', 'Droid Sans Mono', 'monospace', monospace",
   "helium-icon-theme.folders.color": "#eb6f92",
   "scm.compactFolders": false,
-  "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+  "workbench.colorTheme": "Kanagawa Lotus",
   "vim.smartRelativeLine": true,
   "editor.tabSize": 2,
   "terminal.integrated.allowChords": false,
@@ -26,5 +26,6 @@
   "workbench.sideBar.location": "right",
   "workbench.activityBar.location": "top",
   "workbench.navigationControl.enabled": false,
-  "window.commandCenter": false
+  "window.commandCenter": false,
+  "explorer.confirmDragAndDrop": false
 }
